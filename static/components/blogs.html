@@ -1,0 +1,17 @@
+{{ range .Blogs }}
+
+<div class="card bg-base-100 w-96 min-w-96 shadow-xl border m-4 hover:shadow-teal-400">
+  <div class="card-body">
+
+    <h2 class="card-title">{{ .BlogTitle }}</h2>
+
+    <p>{{ .CardDescription }}</p>
+
+    <div class="card-actions justify-end">
+      <a href="/blog/{{ .Slug }}" class="btn btn-primary">Read</a>
+    </div>
+
+  </div>
+</div>
+
+{{ end }}

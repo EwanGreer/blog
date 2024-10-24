@@ -1,0 +1,21 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "personal website and blog",
+  "main": "main.go",
+  "scripts": {
+    "test": "go test ./..."
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/EwanGreer/blog"
+  },
+  "keywords": [
+    "blog"
+  ],
+  "author": "Ewan Greer",
+  "license": "ISC",
+  "dependencies": {
+    "preline": "^2.5.1"
+  }
+}

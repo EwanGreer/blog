@@ -1,0 +1,12 @@
+{{ define "content" }}
+
+<h1 class="text-2xl">Welcome to my blog</h1>
+<p>This is where I put my thoughts!</p>
+
+<section class="flex flex-col items-center justify-center">
+  <p class="m-4 text-teal-400">check this out &#x2193;</p>
+  <div class="flex flex-row w-[80vw] overflow-x-scroll" hx-get="/index/blogs/list" hx-trigger="load">
+  </div>
+</section>
+
+{{ end }}
