@@ -8,7 +8,7 @@ name = "Ewan Greer"
 image = "img/author.jpg"
 headline = "A generally awesome human"
 bio = "A little bit about me"
-links = [{ twitter = "https://twitter.com/username" }]
+links = [{ github = "https://www.github.com/EwanGreer" }]
 
 [services]
 [services.disqus]
