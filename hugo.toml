@@ -1,4 +1,15 @@
 baseURL = 'http://blog.egreer.info/'
 languageCode = 'en-us'
 title = "Ewan's Blog"
-theme = "PolyRhythmic"
+theme = "congo"
+
+[params.author]
+name = "Ewan Greer"
+image = "img/author.jpg"
+headline = "A generally awesome human"
+bio = "A little bit about me"
+links = [{ twitter = "https://twitter.com/username" }]
+
+[services]
+[services.disqus]
+shortname = '@disqus_3zycdnP4Jk'

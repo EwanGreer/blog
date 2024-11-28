@@ -26,3 +26,7 @@
 [submodule "themes/PolyRhythmic"]
 	path = themes/PolyRhythmic
 	url = https://github.com/wonyoung-jang/hugo-PolyRhythmic
+[submodule "themes/congo"]
+	path = themes/congo
+	url = https://github.com/jpanther/congo.git
+	branch = stable

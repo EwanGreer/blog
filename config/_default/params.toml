@@ -1,0 +1,4 @@
+homepage.layout = "profile"
+homepage.showRecent = true
+
+article.showComments = true
