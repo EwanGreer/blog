@@ -8,6 +8,4 @@ tags:
   - untagged
 ---
 
-# Hello World!
-
 This took me less than an hour to setup!

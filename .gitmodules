@@ -4,3 +4,25 @@
 [submodule "themes/ananke"]
 	path = themes/ananke
 	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "hugo-coder"]
+	path = hugo-coder
+	url = https://github.com/luizdepra/hugo-coder.git
+[submodule "themes/hugo-coder"]
+	path = themes/hugo-coder
+	url = https://github.com/luizdepra/hugo-coder.git
+[submodule "themes/terminal"]
+	path = themes/terminal
+	url = https://github.com/panr/hugo-theme-terminal.git
+[submodule "themes/blowfish"]
+	path = themes/blowfish
+	url = https://github.com/nunocoracao/blowfish.git
+	branch = main
+[submodule "themes/photophobia"]
+	path = themes/photophobia
+	url = https://github.com/setsevireon/photophobia.git
+[submodule "themes/dark-theme-editor"]
+	path = themes/dark-theme-editor
+	url = https://github.com/JingWangTW/dark-theme-editor.git
+[submodule "themes/PolyRhythmic"]
+	path = themes/PolyRhythmic
+	url = https://github.com/wonyoung-jang/hugo-PolyRhythmic
