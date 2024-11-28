@@ -1,4 +1,4 @@
-baseURL = 'http://blog.egreer.info'
+baseURL = 'http://blog.egreer.info/'
 languageCode = 'en-us'
 title = "Ewan's Blog"
 theme = 'hello-friend-ng'
