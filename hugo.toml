@@ -12,4 +12,4 @@ links = [{ twitter = "https://twitter.com/username" }]
 
 [services]
 [services.disqus]
-shortname = '@disqus_3zycdnP4Jk'
+shortname = 'blog-egreer-info'
