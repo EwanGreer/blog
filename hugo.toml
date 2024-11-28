@@ -1,7 +1,7 @@
 baseURL = 'http://blog.egreer.info/'
 languageCode = 'en-us'
 title = "Ewan's Blog"
-theme = 'ananke'
+theme = 'hello-friend-ng'
 
 [params]
 dateform = "Jan 2, 2006"
