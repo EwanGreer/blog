@@ -53,4 +53,4 @@ logoHomeLink = "/"
 [[menu.main]]
 identifier = "blog"
 name = "Blog"
-url = "http://blog.egreer.info/posts"
+url = "/posts"
