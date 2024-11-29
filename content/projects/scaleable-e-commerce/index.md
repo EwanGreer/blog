@@ -1,7 +1,10 @@
 +++
-date = '2024-11-28T23:47:14Z'
-draft = false
-title = 'Scaleable E Commerce'
+title= "Scaleable E Commerce"
+date= 2024-11-28T23:47:14Z
+draft= false
+toc= false
+images=[]
+tags=[]
 +++
 
 {{< alert >}}

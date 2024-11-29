@@ -2,3 +2,5 @@ homepage.layout = "profile"
 homepage.showRecent = true
 
 article.showComments = true
+
+params.mainSections = ["blog", "projects"]
