@@ -13,7 +13,7 @@
       <link>http://blog.egreer.info/posts/hello_world/</link>
       <pubDate>Thu, 28 Nov 2024 19:55:54 +0000</pubDate>
       <guid>http://blog.egreer.info/posts/hello_world/</guid>
-      <description>&lt;p&gt;This took me less than an hour to setup!&lt;/p&gt;</description>
+      <description>&lt;p&gt;A blog for sharing useful snippets of &lt;strong&gt;knowledge&lt;/strong&gt; I pickup as I work.&lt;/p&gt;&#xA;&lt;p&gt;Hopefully some of it will be useful!&lt;/p&gt;&#xA;&lt;div class=&#34;mermaid&#34; align=&#34;center&#34;&gt;&#xA;  &#xA;graph LR;&#xA;A[I learn something]--&gt;B[I write about it]--&gt;C[You like it]--&gt;E[I&#39;m happy]--&gt;G&#xA;B--&gt;D[You don&#39;t like it]--&gt;F[I&#39;m sad]--&gt;G[You comment]&#xA;&#xA;&lt;/div&gt;</description>
     </item>
   </channel>
 </rss>

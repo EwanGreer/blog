@@ -6,8 +6,8 @@ theme = "congo"
 [params.author]
 name = "Ewan Greer"
 image = "img/author.jpg"
-headline = "A generally awesome human"
-bio = "A little bit about me"
+headline = "checkout my cool website --> http://localhost:3000/"
+bio = "golang developer based in the UK"
 links = [{ github = "https://www.github.com/EwanGreer" }]
 
 [services]

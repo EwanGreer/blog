@@ -8,4 +8,12 @@ tags:
   - untagged
 ---
 
-This took me less than an hour to setup!
+A blog for sharing useful snippets of **knowledge** I pickup as I work.
+
+Hopefully some of it will be useful!
+
+{{< mermaid >}}
+graph LR;
+A[I learn something]-->B[I write about it]-->C[You like it]-->E[I'm happy]-->G
+B-->D[You don't like it]-->F[I'm sad]-->G[You comment]
+{{< /mermaid >}}
